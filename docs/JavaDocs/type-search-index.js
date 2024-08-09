@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"datastructures.queue","l":"CircularQueueArray"},{"p":"model","l":"Course"},{"p":"model","l":"Department"},{"p":"<Unnamed>","l":"Main"},{"p":"datastructures.queue","l":"PriorityQueue"},{"p":"model","l":"Professor"},{"p":"datastructures.queue","l":"QueueLinkedList"}];updateSearchResults();
